@@ -1,6 +1,6 @@
 #LEARNING OBJECTIVES
-##General:
-#####At the end of this project ,you are expected to understand:
+##General
+* At the end of this project ,you are expected to understand
 1. The meaning of virtual machine
 2. The meaning of vagrant
 3. Who wrote vagrant
